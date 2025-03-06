@@ -1,4 +1,5 @@
 Netflix Clone
+
 A simple and visually accurate clone of the Netflix landing page built using HTML & CSS. This project replicates the design and layout of the original Netflix website but is not responsive.
 
 
